@@ -1,1 +1,0 @@
-https://github.com/benemon/openshift-origin-cartridge-springboot.git
