@@ -18,3 +18,7 @@ Ben Holmes' Scratchpad of stuff
 * SpringBoot
   
   A SpringBoot cartridge for OpenShift, which also provides the spring-boot-cli tools.
+
+* Template Cartridge
+  
+  Template cartridge structure for anyone who can't be bothered to waste time creating files and functions :)
